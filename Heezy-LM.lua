@@ -6,7 +6,6 @@
     Jackz
     Pichocles
     Mayoscript
-    YanRan
 --]]
 
 --[[
